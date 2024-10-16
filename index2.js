@@ -1,1 +1,3 @@
-// Testing sub repo
+export function test(){
+    console.log('testing subrepo')
+}
